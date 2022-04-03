@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-I am an Android Developer currently working on [KTUResource](https://dl.rk585.ml/apps/KTU-Resource/KTUResource-1.0.0.apk).🤫  
+I am an Android Developer currently working on [KTUResource](https://play.google.com/store/apps/details?id=ml.rk585.kturesource).🤫  
 
 ### Languages and tools  
 <div align="start">  
